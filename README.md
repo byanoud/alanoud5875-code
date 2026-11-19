@@ -1,7 +1,11 @@
 
 <div align="center">
+  <img src="assets/banner.svg" width="100%" alt="byanoud banner">
+</div>
 
-# ✨ AL ANOUD
+<br>
+
+<div align="center">
 
 ### Computer Science Student | AI Enthusiast
 
@@ -11,7 +15,7 @@
 
 ---
 
-### 🌷 About Me
+## 🌷 About Me
 
 Hi! I'm Al Anoud, a Computer Science student interested in Artificial Intelligence and Software Development.
 
@@ -20,7 +24,9 @@ Hi! I'm Al Anoud, a Computer Science student interested in Artificial Intelligen
 - 💻 Exploring Web Development
 - 🌱 Always learning and building new things
 
-### 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -33,15 +39,31 @@ Hi! I'm Al Anoud, a Computer Science student interested in Artificial Intelligen
 
 </div>
 
-### 📌 Featured Projects
+---
+
+## 📌 Featured Projects
 
 *Coming soon! Currently working on new projects.*
 
-### 🌱 Currently Learning
+---
+
+## 🌱 Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
 - Front-End Development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byanoud&show_icons=true&theme=rose_pine&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byanoud&layout=compact&theme=rose_pine&hide_border=true)
+
+</div>
 
 ---
 
@@ -50,4 +72,3 @@ Hi! I'm Al Anoud, a Computer Science student interested in Artificial Intelligen
 *Thanks for visiting my profile! ♡*
 
 </div>
-
